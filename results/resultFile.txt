@@ -1,0 +1,21 @@
+Files list:
+------------------
+renamedFile.txt
+functions.py
+files.py
+exception.py
+.DS_Store
+helloThere.py
+testzip.zip
+shell.py
+test.py
+filesChallenge.py
+testTextFile.txt
+palindromeChallenge2.py
+modules.py
+classes.py
+archive.zip
+palindromeChallenge.py
+testTextFile.txt.bak
+------------------
+Total file bytecount:20841
